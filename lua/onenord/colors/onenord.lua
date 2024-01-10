@@ -1,7 +1,8 @@
 local colors = {
   fg = "#C8D0E0",
   fg_light = "#E5E9F0",
-  bg = "#2E3440",
+  --bg = "#2E3440",
+  bg = "#1F242D",
   gray = "#646A76",
   light_gray = "#6C7A96",
   cyan = "#88C0D0",
@@ -36,7 +37,7 @@ colors.diff_remove = colors.red
 colors.diff_remove_bg = "#4D2B2E"
 colors.diff_text_bg = "#405D7E"
 
-colors.active = "#2B3E54" -- modified,#374E69 too light. idea. #141F2D, a bit dark
+colors.active = "#2B3E54" -- modified,#374E69 too light. idea. #141F2D, a bit dark, #2B3E54 okay
 colors.float = "#3B4252"
 colors.highlight = "#3F4758"
 colors.highlight_dark = "#434C5E"
