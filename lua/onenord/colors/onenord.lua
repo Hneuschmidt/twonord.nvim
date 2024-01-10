@@ -36,7 +36,7 @@ colors.diff_remove = colors.red
 colors.diff_remove_bg = "#4D2B2E"
 colors.diff_text_bg = "#405D7E"
 
-colors.active = "#141F2D" -- modified
+colors.active = "#2B3E54" -- modified,#374E69 too light. idea. #141F2D, a bit dark
 colors.float = "#3B4252"
 colors.highlight = "#3F4758"
 colors.highlight_dark = "#434C5E"
